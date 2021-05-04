@@ -1,7 +1,6 @@
 # dwm-bar
-A modular statusbar for dwm
+A modular statusbar for dwm written in shell
 ![screenshot](sshot.png)
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J11S7DZ)
 ## Table of Contents
 - [Current Functions](#current-functions)
   - [dwm_alsa](#dwm_alsa)
@@ -168,7 +167,7 @@ Displays the current rate of your currency in comparison to the USD provided by 
 ```
 [💡 1.225 ]
 ```
-Dependencies: ```curl```
+Dependencies: ```curl```   
 
 ## Installation
 1. Clone and enter the repository:
