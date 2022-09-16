@@ -1,1 +1,1 @@
-# for of dwm-bar
+# fork of dwm-bar
